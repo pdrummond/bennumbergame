@@ -3,7 +3,7 @@ package bennumbergame;
 public class Main {
 
 	public static void main(String[] args) {
-
+		
 		// STEP 1: Computer decides number between range 1-50.
 		// Example:
 		// - Computer chooses 35.
@@ -23,11 +23,6 @@ public class Main {
 		// STEP 6: Computer let's player start again or exit
 		//Example:
 		// - Computer displays: "Play again (y/n):" 
-		
-		//New features:
-		
-		//PART X: Add levels with different ranges
-		
 	}
 
 }
